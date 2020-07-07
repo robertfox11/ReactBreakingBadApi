@@ -25,7 +25,7 @@ const Boton = styled.button`
   }
 `;
 
-Creamos un funcino para consultar la api
+Creamos un funcion para consultar la api
 
 const getApi = () => {
     console.log("consultando ");
